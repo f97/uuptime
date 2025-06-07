@@ -4,18 +4,20 @@
     "url": "https://truyenfull.tech",
     "icon": "https://icons.duckduckgo.com/ip3/truyenfull.tech.ico",
     "slug": "truyenfull-tech",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1506,
-    "timeDay": 1506,
-    "timeWeek": 1506,
-    "timeMonth": 1506,
-    "timeYear": 1506,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "40.75%",
+    "uptimeDay": "40.75%",
+    "uptimeWeek": "40.75%",
+    "uptimeMonth": "40.75%",
+    "uptimeYear": "40.75%",
+    "time": 1848,
+    "timeDay": 1848,
+    "timeWeek": 1848,
+    "timeMonth": 1848,
+    "timeYear": 1848,
+    "dailyMinutesDown": {
+      "2025-06-07": 26
+    }
   },
   {
     "name": "f97.xyz",
