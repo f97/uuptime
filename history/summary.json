@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/truyenfull.tech.ico",
     "slug": "truyen-full",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "5.76%",
+    "uptimeDay": "5.76%",
+    "uptimeWeek": "5.76%",
+    "uptimeMonth": "5.76%",
+    "uptimeYear": "5.76%",
     "time": 603,
     "timeDay": 603,
     "timeWeek": 603,
     "timeMonth": 603,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-07": 0
+    }
   }
 ]
