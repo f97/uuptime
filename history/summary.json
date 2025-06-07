@@ -1,22 +1,38 @@
 [
   {
-    "name": "Truyện Full",
+    "name": "truyenfull.tech",
     "url": "https://truyenfull.tech",
     "icon": "https://icons.duckduckgo.com/ip3/truyenfull.tech.ico",
-    "slug": "truyen-full",
+    "slug": "truyenfull-tech",
     "status": "up",
-    "uptime": "95.98%",
-    "uptimeDay": "95.98%",
-    "uptimeWeek": "95.98%",
-    "uptimeMonth": "95.98%",
-    "uptimeYear": "95.98%",
-    "time": 2008,
-    "timeDay": 2008,
-    "timeWeek": 2008,
-    "timeMonth": 2008,
-    "timeYear": 2008,
-    "dailyMinutesDown": {
-      "2025-06-07": 20
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2443,
+    "timeDay": 2443,
+    "timeWeek": 2443,
+    "timeMonth": 2443,
+    "timeYear": 2443,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "f97.xyz",
+    "url": "https://f97.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/f97.xyz.ico",
+    "slug": "f97-xyz",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 256,
+    "timeDay": 256,
+    "timeWeek": 256,
+    "timeMonth": 256,
+    "timeYear": 256,
+    "dailyMinutesDown": {}
   }
 ]
