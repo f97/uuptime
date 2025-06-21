@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/truyenfull.tech.ico",
     "slug": "truyenfull-tech",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 3260,
-    "timeDay": 3545,
-    "timeWeek": 4206,
-    "timeMonth": 3260,
-    "timeYear": 3260,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 3232,
+    "timeDay": 2739,
+    "timeWeek": 4169,
+    "timeMonth": 3232,
+    "timeYear": 3232,
     "dailyMinutesDown": {
       "2025-06-07": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 444,
-    "timeWeek": 407,
-    "timeMonth": 403,
-    "timeYear": 403,
+    "time": 394,
+    "timeDay": 273,
+    "timeWeek": 393,
+    "timeMonth": 394,
+    "timeYear": 394,
     "dailyMinutesDown": {}
   }
 ]
